@@ -1,13 +1,13 @@
 <h1 align="center">Hi, I'm Bohdan 👋</h1>
 
 <h3 align="center">
-AI Student at JKU Linz · Computer Vision · Machine Learning
+  AI Student at JKU Linz · Computer Vision · Machine Learning
 </h3>
 
-<p align="center">
-I build practical AI systems that combine model development,
-computer vision, visualization, and reproducible deployment.
-</p>
+<h4 align="center">
+  I build practical AI systems that combine model development,
+  computer vision, visualization, and reproducible deployment.
+</h4>
 
 ---
 
@@ -15,15 +15,17 @@ computer vision, visualization, and reproducible deployment.
 
 ### Boxing-Specific Multi-Object Tracking
 
-A computer vision system designed to preserve boxer identities during:
+#### A computer vision system designed to preserve boxer identities during:
 
-- fast motion;
-- close-range overlaps;
-- missed detections;
-- broadcast camera cuts.
+- **Fast motion**
+- **Close-range overlaps**
+- **Missed detections**
+- **Broadcast camera cuts**
 
-The pipeline combines **motion prediction**, **pose matching**,
-**appearance ReID**, **overlap-aware tracking**, and
+#### Core pipeline
+
+The system combines **motion prediction**, **pose matching**,  
+**appearance ReID**, **overlap-aware tracking**, and  
 **cross-camera identity recovery**.
 
 ### [View the Boxing Tracking Project →](https://github.com/Bohdanvtk/Boxing_Tracking_Project)
@@ -33,10 +35,10 @@ The pipeline combines **motion prediction**, **pose matching**,
 ## 🛠 Technologies
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white">
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white">
-  <img src="https://img.shields.io/badge/ONNX-005CED?logo=onnx&logoColor=white">
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/CUDA-76B900?logo=nvidia&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV">
+  <img src="https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white" alt="ONNX">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="CUDA">
 </p>
