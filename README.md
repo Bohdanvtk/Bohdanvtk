@@ -1,19 +1,42 @@
-## Hi, I'm Bohdan 👋
+<h1 align="center">Hi, I'm Bohdan 👋</h1>
 
-I'm an **Artificial Intelligence student at JKU Linz** interested in **Computer Vision, Machine Learning, and intelligent systems**.
+<h3 align="center">
+AI Student at JKU Linz · Computer Vision · Machine Learning
+</h3>
 
-I enjoy building practical AI projects that combine algorithm development, model integration, visualization, and reproducible deployment.
+<p align="center">
+I build practical AI systems that combine model development,
+computer vision, visualization, and reproducible deployment.
+</p>
 
-### 🥊 Featured Project
+---
 
-#### Boxing-Specific Multi-Object Tracking
+## 🥊 Featured Project
 
-A computer vision pipeline for preserving boxer identities through fast motion, close-range overlaps, missed detections, and broadcast camera cuts.
+### Boxing-Specific Multi-Object Tracking
 
-The system combines motion prediction, pose matching, appearance ReID, overlap-aware tracking, and global identity recovery across camera changes.
+A computer vision system designed to preserve boxer identities during:
 
-[View the project →](https://github.com/Bohdanvtk/Boxing_Tracking_Project)
+- fast motion;
+- close-range overlaps;
+- missed detections;
+- broadcast camera cuts.
 
-### Technologies
+The pipeline combines **motion prediction**, **pose matching**,
+**appearance ReID**, **overlap-aware tracking**, and
+**cross-camera identity recovery**.
 
-`Python` · `PyTorch` · `OpenCV` · `ONNX` · `Docker` · `CUDA` · `Computer Vision`
+### [View the Boxing Tracking Project →](https://github.com/Bohdanvtk/Boxing_Tracking_Project)
+
+---
+
+## 🛠 Technologies
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white">
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white">
+  <img src="https://img.shields.io/badge/ONNX-005CED?logo=onnx&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/CUDA-76B900?logo=nvidia&logoColor=white">
+</p>
