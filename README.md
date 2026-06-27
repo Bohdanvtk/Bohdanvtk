@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi, I'm Bohdan 👋
 
-<!--
-**Bohdanvtk/Bohdanvtk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an **Artificial Intelligence student at JKU Linz** interested in **Computer Vision, Machine Learning, and intelligent systems**.
 
-Here are some ideas to get you started:
+I enjoy building practical AI projects that combine algorithm development, model integration, visualization, and reproducible deployment.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🥊 Featured Project
+
+#### Boxing-Specific Multi-Object Tracking
+
+A computer vision pipeline for preserving boxer identities through fast motion, close-range overlaps, missed detections, and broadcast camera cuts.
+
+The system combines motion prediction, pose matching, appearance ReID, overlap-aware tracking, and global identity recovery across camera changes.
+
+[View the project →](https://github.com/Bohdanvtk/Boxing_Tracking_Project)
+
+### Technologies
+
+`Python` · `PyTorch` · `OpenCV` · `ONNX` · `Docker` · `CUDA` · `Computer Vision`
