@@ -14,6 +14,12 @@ I build practical systems across model development, computer vision, visualizati
 
 Keeping boxer identities locked in through the chaos that breaks ordinary trackers 👇
 
+<a href="https://github.com/Bohdanvtk/Boxing_Tracking_Project/releases/latest">
+  <img src="https://github.com/Bohdanvtk/Boxing_Tracking_Project/raw/master/assets/demo/tracking_demo.gif" alt="Boxing tracking demo — click to watch the full videos" width="600">
+</a>
+
+*▶ [Watch the full demos →](https://github.com/Bohdanvtk/Boxing_Tracking_Project/releases/latest)*
+
 - ⚡ **Fast motion** — blink-and-you-miss-it movement
 - 🤝 **Close-range overlaps** — fighters tangled in a clinch
 - 👀 **Missed detections** — occlusion and heavy motion blur
@@ -23,8 +29,7 @@ Keeping boxer identities locked in through the chaos that breaks ordinary tracke
 
 Motion prediction → Pose matching → Appearance ReID → Overlap-aware tracking → Cross-camera identity recovery
 
-**[✨ Check out the Boxing Tracking Project →](#)**
-<!-- TODO: replace # with the real repository URL -->
+**[✨ Check out the Boxing Tracking Project →](https://github.com/Bohdanvtk/Boxing_Tracking_Project)**
 
 ## 🧰 My Toolbox
 
@@ -55,13 +60,6 @@ Motion prediction → Pose matching → Appearance ReID → Overlap-aware tracki
 
 ![Bohdan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bohdanvtk&show_icons=true&hide_border=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bohdanvtk&layout=compact&hide_border=true&theme=radical&langs_count=8)
-
-## 💬 Let's Connect
-
-Always happy to chat about computer vision, ML, or a fun project idea — my inbox is open!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bohdan-vityk-36b714321/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bohdan.vityk.ai@gmail.com)
 
 ---
 
